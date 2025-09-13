@@ -1,5 +1,3 @@
-# Online-Retail-Analytics-in-SQL
-
 # 📊 Online Retail Analytics in SQL
 
 This project analyzes **e-commerce transaction data** (UCI Online Retail dataset) using **SQLite and SQL queries**. The goal is to uncover insights into **sales performance** and **customer retention** that would help a business like Oda (online grocery delivery) improve commercial and customer outcomes.
