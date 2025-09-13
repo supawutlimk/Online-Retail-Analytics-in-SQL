@@ -59,19 +59,19 @@ This project demonstrates how SQL can be used to answer these questions directly
 
 Revenue is **seasonal**, with peaks in November 2011 (holiday shopping). The highest AOV is from December 2011 with the AOV of 779.87. In addition, the UK drives the most sales with revenue up to 9,025,222 or approximately 84.64 % of the total revenue.
 
-![Monthly Revenue](https://chatgpt.com/c/download%20(1).png)
+![imagealt](https://github.com/supawutlimk/Online-Retail-Analytics-in-SQL/blob/a40d62a175187a9629772595615ac5d776ac6595/E_Commerce/images/download%20(1).png)
 
 ### 🛍️ Top Products by Revenue
 
 Revenue is highly concentrated in a small number of SKUs, led by **DOTCOM POSTAGE** , **REGENCY CAKESTAND 3 TIER and PAPER CRAFT, LITTLE BIRDIE**.
 
-![Top Products](https://chatgpt.com/c/download.png)
+![imagealt](https://github.com/supawutlimk/Online-Retail-Analytics-in-SQL/blob/a40d62a175187a9629772595615ac5d776ac6595/E_Commerce/images/download.png)
 
 ### 🔄 Customer Retention
 
 Retention is strong in month 0 (100%) but drops sharply. By month 3, less than 30% of customers are still active, highlighting churn risk. Especially, the customers who did the firsr puchae in September 2011, by month 3, the retention drops to less than 2% - however, this might be due to the customer in this cohort did a holiday shopping earlier than the others.
 
-![Cohort Retention](https://chatgpt.com/c/download%20(2).png)
+![imagealt](https://github.com/supawutlimk/Online-Retail-Analytics-in-SQL/blob/a40d62a175187a9629772595615ac5d776ac6595/E_Commerce/images/download%20(2).png)
 
 ---
 
